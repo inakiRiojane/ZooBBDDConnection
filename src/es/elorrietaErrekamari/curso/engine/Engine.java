@@ -34,7 +34,7 @@ public class Engine {
 			registrarCliente();
 
 		case 2:
-
+//gh4ogi4//
 		case 3:
 			
 
@@ -48,7 +48,7 @@ public class Engine {
 		cliente = menu.insertarDatos();
 		validarDatos(cliente);
 
-		gestorCliente.
+		gestorCliente.insertarCliente(cliente);
 
 	}
 
